@@ -10,11 +10,7 @@
 - 👨‍💻 All of my projects are available at **https://github.com/Kohinur0124**
 - ⚡ Fun fact **My hobby is creating database architecture**
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sevinch-xayriddinova-b324b0267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Kohinur0124" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/k00h1nur" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:xayiddinovasevinch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sevinch-xayriddinova-b324b0267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sevinch-xayriddinova-b324b0267/" height="30" width="40" /></a><a href="https://www.youtube.com/c/@Kohinur_0124" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="@Kohinur_0124" height="30" width="40" /></a><a href="https://www.leetcode.com/nur_210124" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="nur_210124" height="30" width="40" /></a><a href="https://instagram.com/k00h1nur" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="k00h1nur" height="30" width="40" /></a></p>
 
