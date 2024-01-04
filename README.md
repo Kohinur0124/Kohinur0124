@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sevinch</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kohinur0124&label=Profile%20views&color=0e75b6&style=flat" alt="Kohinur0124" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kohinur0124&label=Profile%20views&color=0e75b6&style=flat" alt="Kohinur0124" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kohinur0124&theme=default" alt="Kohinur0124" /></a> </p>
+
 
 - 🌱 I’m currently learning **C# , Angular**
 - 💬 Ask me about **C# , C, C++, Python**
@@ -29,12 +29,19 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohinur0124&layout=compact&theme=default" alt=Kohinur0124 />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Stars</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kohinur0124&theme=default" alt="Kohinur0124" /></a> </p>
+<div align = "center"  >
+<img align="center"   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohinur0124&layout=compact&theme=default" alt=Kohinur0124 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kohinur0124&show_icons=true&locale=en&theme=default" alt="Kohinur0124" /></p>
-
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kohinur0124&show_icons=true&locale=en&theme=default" alt="Kohinur0124" />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kohinur0124&theme=default" alt="Kohinur0124" /></p>
+</div>
+<h3 align="center">Visitor count</h3>
+<div align ="center">
+  
+![:Kohinur0124](https://moe-counter.glitch.me/get/@:Kohinur0124)
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
