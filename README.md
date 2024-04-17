@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **C# , Angular**
+- 🌱 I’m currently learning **C# , Angular , MAUI**
 - 💬 Ask me about **C# , C, C++, Python**
 - 📫 How to reach me **xayiddinovasevinch@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Kohinur0124**
