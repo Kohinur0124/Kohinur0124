@@ -36,11 +36,7 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kohinur0124&show_icons=true&locale=en&theme=default" alt="Kohinur0124" />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kohinur0124&theme=default" alt="Kohinur0124" /></p>
 </div>
-<h3 align="center">Visitor count</h3>
-<div align ="center">
-  
-![:Kohinur0124](https://moe-counter.glitch.me/get/@:Kohinur0124)
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
